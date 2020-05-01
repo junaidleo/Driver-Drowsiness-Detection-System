@@ -6,5 +6,4 @@ Python packages needed:
     tkinter
     cv2
 
-Run dd_GUI through command prompt
-\npython dd_GUI.py
+Run dd_GUI through command prompt : python dd_GUI.py
