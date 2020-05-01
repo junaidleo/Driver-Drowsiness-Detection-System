@@ -7,4 +7,4 @@ Python packages needed:
     cv2
 
 Run dd_GUI through command prompt
-    python dd_GUI.py
+\npython dd_GUI.py
